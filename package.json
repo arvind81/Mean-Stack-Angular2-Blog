@@ -1,0 +1,23 @@
+{
+  "name": "meanstackpro",
+  "version": "1.0.0",
+  "description": "Mean stack with angilar 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvind81/Mean-Stack-Angular2-Blog.git"
+  },
+  "author": "Arvind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvind81/Mean-Stack-Angular2-Blog/issues"
+  },
+  "homepage": "https://github.com/arvind81/Mean-Stack-Angular2-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.22"
+  }
+}
